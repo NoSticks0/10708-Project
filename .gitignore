@@ -1,4 +1,3 @@
-data/middle/*
-data/top/*
-data/uniform/*
-full_data.pt
+data/*
+!data/test.txt
+!data/train.txt
